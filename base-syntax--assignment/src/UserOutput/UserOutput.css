@@ -1,0 +1,9 @@
+.Output{
+    
+    text-align: justify;
+    width: 25%;
+    padding : 20px;
+    margin: auto;
+    margin-top:15px;
+    border: 5px solid burlywood;
+}
